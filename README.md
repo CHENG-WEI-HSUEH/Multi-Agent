@@ -5,3 +5,6 @@
 ## Coordination and Cooperation Algorithms
 - Decentralized Cooperative Algorithms: Agents share information and resources to achieve a common goal without a central control.
 - Task Allocation: Dynamic allocation of tasks among agents based on their capabilities and task requirements.
+
+# REFERENCE
+hydrozoa-yt. (2020). Pokemon. __'GitHub Repository'.__ Avaliable at: https://github.com/hydrozoa-yt/pokemon (Accessed:24 April 2024)
